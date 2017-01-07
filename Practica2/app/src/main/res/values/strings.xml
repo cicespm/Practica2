@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <string name="desnutrido">Desnutrido</string>
+    <string name="bajo">Peso bajo</string>
+    <string name="normal">Normal</string>
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="obeso">Obeso</string>
+    <string name="title_activity_resultado">Resultado</string>
+    <string name="tit_resultado">El resultado de su cálculo es:</string>
+    <string name="error">Es necesario introducir un peso y altura superior a 0</string>
+</resources>

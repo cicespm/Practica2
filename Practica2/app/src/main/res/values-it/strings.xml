@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica2</string>
+    <string name="desnutrido">Malnutrito</string>
+    <string name="bajo">Sottopeso</string>
+    <string name="normal">Normale</string>
+    <string name="sobrepeso">Sovrappeso</string>
+    <string name="obeso">Obeso</string>
+</resources>
